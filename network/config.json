@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Betweenness Centrality"
+    "imageAttribute": "Degree"
   },
   "sigma": {
     "drawingProperties": {
